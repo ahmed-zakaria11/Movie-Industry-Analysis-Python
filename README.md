@@ -37,7 +37,7 @@ This project analyzes the movie industry using a Kaggle dataset of over 7,000 fi
 ## 📂 Repository Structure
 📂 Dataset
 📂 Screenshots
-📄 Movie Industry.xlsx
+📄 Movie Industry project.ipynb
 📄 README.md
 
 
