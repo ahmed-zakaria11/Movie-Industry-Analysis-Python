@@ -1,7 +1,7 @@
 # 🎬 Movie Industry Analysis (Python Project)
 
 This project analyzes the movie industry using a Kaggle dataset of over 7,000 films. The goal was to practice Python data analysis and uncover insights about what drives box office success.  
-📘 View Notebook: [movie.ipynb on nbviewer](https://nbviewer.org/github/ahmed-zakaria11/Movie-Industry-Analysis-Python/blob/main/Movie%20Industry%20project.ipynb)
+📘 View Notebook: [movie.ipynb on nbviewer](https://nbviewer.org/github/ahmed-zakaria11/Movie_Industry_Analysis_Python/blob/main/Movie%20Industry%20project.ipynb)
 (https://nbviewer.org/github/ahmed-zakaria11/Movie_Industry_Analysis_Python/blob/main/Movie_Industry.ipynb)
 
 ---
