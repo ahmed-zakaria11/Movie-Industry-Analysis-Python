@@ -50,7 +50,6 @@ This project analyzes the movie industry using a Kaggle dataset of over 7,000 fi
 ### Top Companies by Gross Revenue
 ![Top Companies](screenshots/top_companies.png)
 
-*(Add your images inside the `screenshots/` folder and update the file names above.)*
 
 ---
 
