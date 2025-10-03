@@ -46,13 +46,13 @@ This project analyzes the movie industry using a Kaggle dataset of over 7,000 fi
 ## 📸 Screenshots  
 
 ### Correlation Heatmap
-![Correlation Heatmap](screenshots/correlation_heatmap.png)
+![Correlation Matrix](Screenshots/Correlation matrix.PNG)
 
-### Revenue by Rating
-![Revenue by Rating](screenshots/revenue_rating.png)
+### Gross Revenue vs Budget
+![Gross Revenue vs Budget](Screenshots/Gross revenue vs Budget.PNG)
 
 ### Top Companies by Gross Revenue
-![Top Companies](screenshots/top_companies.png)
+![Top Companies](Screenshots/Top companies.PNG)
 
 
 ---
