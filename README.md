@@ -21,7 +21,7 @@ This project analyzes the movie industry using a Kaggle dataset of over 7,000 fi
 1. Imported and cleaned the dataset (handled missing/inconsistent values).  
 2. Performed exploratory data analysis and correlation checks.  
 3. Visualized relationships between budget, revenue, ratings, and genres.  
-4. Identified top companies, directors, writers, and actors by revenue.  
+4. Identified top companies, directors, writers, and actors by revenue and score.  
 
 ---
 
