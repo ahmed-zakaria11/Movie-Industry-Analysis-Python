@@ -49,11 +49,13 @@ This project analyzes the movie industry using a Kaggle dataset of over 7,000 fi
 ![Correlation Matrix](Screenshots/Correlation%20matrix.PNG)
 
 ### Gross Revenue vs Budget
-![Gross Revenue vs Budget](Screenshots/Gross revenue vs Budget.PNG)
+![Gross Revenue vs Budget](Screenshots/Gross%20revenue%20vs%20Budget.PNG)
 
 ### Top Companies by Gross Revenue
-![Top Companies](Screenshots/Top companies.PNG)
+![Top Companies](Screenshots/Top%20companies.PNG)
 
+### Gross Revenue by Genre
+![Gross Revenue by Genre](Screenshots/Gross%20revenue%20by%20genre.PNG)
 
 ---
 
